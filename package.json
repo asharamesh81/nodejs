@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.0.0",
   "scripts": {
-    "install" "ng install"
+    "install" "npm install"
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
